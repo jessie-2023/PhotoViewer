@@ -1,0 +1,9 @@
+.viewer {
+    display: flex;
+    flex-wrap: wrap;
+    border: 0.5rem solid gray;
+}
+
+.viewer img {
+    max-width: 610px;
+}

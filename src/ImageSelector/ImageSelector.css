@@ -1,0 +1,14 @@
+.selector {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    gap: 4px ;
+    border: 0.5rem solid gray;
+}
+
+.selector img {
+    max-width: 200px;
+}
+
+.selected {
+    border: 0.5rem solid navy;
+}
